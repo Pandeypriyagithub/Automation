@@ -29,7 +29,7 @@ public class Airthematic1 {
 }
 	
 	public static void main(String[] args) {
-	Airthematic1 priya = new Airthematic1();                     // //(((((10+2)+2)-2)*2)/2)
+	Airthematic1 priya = new Airthematic1();           //(((((10+2)+2)-2)*2)/2)
 	int  sumresult =priya.sum(10, 2);
 	int result =priya.sum(sumresult, 2);
 	int subresult=priya.sub(result, 2);

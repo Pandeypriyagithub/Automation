@@ -54,48 +54,5 @@ public class ScanAssginment
 	    int divresult =obj.div(subresult, x5);
 	      obj.multi(divresult, x6);
 	    System.out.println(" Final result is = "+obj.multi(divresult, x6));
-
-			
-		
-			
-			
-			
-			
-			
-		}
-		
-		
-		
-		
-		
-		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+}
 }
